@@ -1,0 +1,25 @@
+<?php
+
+// "0" DIGIT ZERO
+return new Zete7\NumberLikeString\CharacterSet("\u{0030}", array(
+    "\u{004F}", // "O" LATIN CAPITAL LETTER O
+    "\u{006F}", // "o" LATIN SMALL LETTER O
+    "\u{039F}", // "Ο" GREEK CAPITAL LETTER OMICRON
+    "\u{03BF}", // "ο" GREEK SMALL LETTER OMICRON
+    "\u{041E}", // "О" CYRILLIC CAPITAL LETTER O
+    "\u{043E}", // "о" CYRILLIC SMALL LETTER O
+    "\u{0555}", // "Օ" ARMENIAN CAPITAL LETTER OH
+    "\u{0585}", // "օ" ARMENIAN SMALL LETTER OH
+    "\u{05E1}", // "ס" HEBREW LETTER SAMEKH
+    "\u{0647}", // "ه" ARABIC LETTER HEH
+    "\u{0B20}", // "ଠ" ORIYA LETTER TTHA
+    "\u{0C4B}", // "ో" TELUGU VOWEL SIGN OO
+    "\u{0D20}", // "ഠ" MALAYALAM LETTER TTHA
+    "\u{12D0}", // "ዐ" ETHIOPIC SYLLABLE PHARYNGEAL A
+    "\u{12D2}", // "ዒ" ETHIOPIC SYLLABLE PHARYNGEAL I
+    "\u{12D3}", // "ዓ" ETHIOPIC SYLLABLE PHARYNGEAL AA
+    "\u{12D4}", // "ዔ" ETHIOPIC SYLLABLE PHARYNGEAL EE
+    "\u{12D5}", // "ዕ" ETHIOPIC SYLLABLE PHARYNGEAL E
+    "\u{12D6}", // "ዖ" ETHIOPIC SYLLABLE PHARYNGEAL O
+    "\u{1D11}", // "ᴑ" LATIN SMALL LETTER SIDEWAYS O
+));

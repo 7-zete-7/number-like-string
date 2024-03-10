@@ -1,0 +1,19 @@
+{
+    "name": "7-zete-7/number-like-string",
+    "description": "Library to normalize and validate number strings.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zete7\\NumberLikeString\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3"
+    },
+    "config": {
+        "platform": {
+            "php": "5.3.3"
+        }
+    }
+}
